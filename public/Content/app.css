@@ -1,0 +1,44 @@
+/* my css will go here */
+.logo-image{
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-top: -6px;
+}
+
+body {
+    background-color: #464646;
+    }
+
+    h1 {
+        color: white;
+        font-family: Copperplate Gothic;
+    }
+
+    p {
+        color: white;
+        font-family: Trebuchet MS;
+    }
+
+    li {
+        color: white;
+        font-family: Trebuchet MS;
+    }
+
+    table{
+        color: white;
+        font-family: Trebuchet MS;
+    }
+
+    td{
+        color: white;
+        font-family: Trebuchet MS;
+    }
+
+    th{
+        color: white;
+        font-family: Trebuchet MS;
+    }
+
+
